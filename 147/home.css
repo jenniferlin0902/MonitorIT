@@ -1,0 +1,69 @@
+.header-container {
+	height: 50px;
+	background-color: #002080;
+
+
+}
+span {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+.machine-container{
+	
+}
+.machine {
+	width: 200px;
+	height: 250px;
+	background-color: #f2f2f2;
+	border: 4px #595959 solid;
+	border-radius: 20px;
+
+	display: table;
+	margin: 0 auto;
+
+	color: #595959;
+	text-align: center;
+	padding: 5px;
+}
+.condition-text-container{
+	text-align: center;
+	margin: 20px
+}
+
+.condition-text{
+	font-size: 50px;
+	color: #002080;
+}
+
+.conditions{
+	margin: 30px 0px 30px 0px;
+	text-align: left;
+
+}
+
+.condition{
+	margin: 20px;
+	display:table;
+}
+
+.condition > span{
+	padding-left: 10px;
+	display:table-cell;
+ 	vertical-align:middle;
+}
+
+.analyze{
+	margin: 10px;
+	display:table;
+}
+
+.analyze > span{
+	padding-left: 10px;
+	display:table-cell;
+ 	vertical-align:middle;
+ 	font-size: 20px
+}
+
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
